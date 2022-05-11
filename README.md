@@ -6,7 +6,7 @@
   <img width="440" height="200" src="https://media.giphy.com/media/Szn4M0Q0aHATw2DfA8/giphy.gif">
 </p>
 <h3>About Me:</h3>
-- 🌱 I’m currently learning **the MERN stack (MongoDB, Express JS, React JS, Node JS)**
+🌱 I’m currently learning the MERN stack (MongoDB, Express JS, React JS, Node JS)
 
 - 👨‍💻 All of my projects are available at [https://nafisa-huda.netlify.app/](https://nafisa-huda.netlify.app/)
 
