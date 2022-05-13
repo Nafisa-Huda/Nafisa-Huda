@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nafisa 👋 👩‍💻</h1>
-<h3 align="center">A dedicated fullstack developer based in New York.</h3>
+<h3 align="center">A dedicated fullstack web-developer based in New York.</h3>
 
 <img src=https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/Screen%20Shot%202022-05-11%20at%2012.53.12%20AM.png>
 <p align="center">
