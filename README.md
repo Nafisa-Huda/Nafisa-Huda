@@ -1,10 +1,17 @@
 <h1 align="center">Hi, I'm Nafisa 👋 👩‍💻</h1>
 <h3 align="center">A dedicated fullstack web-developer based in New York.</h3>
-
 <img src=https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/Screen%20Shot%202022-05-11%20at%2012.53.12%20AM.png>
 <p align="center">
   <img width="440" height="200" src="https://media.giphy.com/media/Szn4M0Q0aHATw2DfA8/giphy.gif">
 </p>
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nafisa-huda/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=dda162" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Nafisahuda12">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=dda162" alt="Twitter Badge"/>
+  </a>
+</div>
 <h3>About Me:</h3>
 
 ---
@@ -46,4 +53,3 @@
  <!--jokes--> 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dda062&qColor=%23FFF&aColor=%23FFF" alt="Jokes Card" />
  
-
