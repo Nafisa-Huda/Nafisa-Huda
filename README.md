@@ -9,7 +9,7 @@
 
 ---
 
-🌱 I’m currently using and learning the MERN stack (MongoDB, Express JS, React JS, Node JS)
+- 🌱 I’m currently using and learning the MERN stack (MongoDB, Express JS, React JS, Node JS)
 
 - 👨‍💻 All of my projects are available at [https://nafisa-huda.netlify.app/](https://nafisa-huda.netlify.app/)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML/CSS, JavaScript**
 
-- 📫 How to reach me **nafisahuda12@gmail.com**
+- 📫 You can reach me at **nafisahuda12@gmail.com**
 
 ---
 
