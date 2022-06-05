@@ -32,17 +32,42 @@
 
 <h3>My Work:</h3>
 
-| Quotes API    | Hair Salon    |           
-| ------------- |:-------------:| 
-| <img src =https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(1).gif width=350px>    | <img src =https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif width=350px> |
+<div align="center">
+  <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Quotes API</h3>
+          <p align="center">
+             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(1).gif" alt="project example"/> </a>
+            <p align="center">
+              API providing meaningful quotes, stoic quotes, and valuable advice.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Hairology Salon</h3>
+          <p align="center">
+           <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif" alt="project example"/> </a>
+            <p align="center">
+            A fully responsive, modern website for a luxurious full-service salon.
+            </p>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">DevDraw</h3>
+          <p align="center">
+             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(2).gif" alt="project example"/> </a>
+            <p align="center">
+              With this project, you are able to create your own art through a collaborative canvas with numerous features. Through the use of javascript, node.js, html and css, we were able to bring this canvas to life and as simple as possible for users to use.  
+            </p>
+          </p>
+        </td>
+
+
 ---
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nafisahuda12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafisahuda12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nafisa-huda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nafisa-huda" height="30" width="40" /></a>
-<a href="https://medium.com/@nafisahuda12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nafisahuda12" height="30" width="40" /></a>
-</p>  -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
