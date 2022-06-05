@@ -28,14 +28,22 @@
 
 - 📫 You can reach me at **nafisahuda12@gmail.com**
 
+
 ---
 
-<h3>My Work:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  
+  
+---
+
+
+<h3>My Work: </h3>
 
 <div align="center">
   <table>
       <tr>
-        <td width="50%">
+        <td width="33.333%">
           <h3 align="center">Quotes API</h3>
           <p align="center">
              <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(1).gif" alt="project example"/> </a>
@@ -44,7 +52,7 @@
             </p>
           </p>
         </td>
-        <td width="50%">
+        <td width="33.333%">
           <h3 align="center">Hairology Salon</h3>
           <p align="center">
            <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif" alt="project example"/> </a>
@@ -55,7 +63,7 @@
         </td>
       </tr>
       <tr>
-        <td width="50%">
+        <td width="33.333%">
           <h3 align="center">DevDraw</h3>
           <p align="center">
              <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(2).gif" alt="project example"/> </a>
@@ -64,17 +72,16 @@
             </p>
           </p>
         </td>
+      </table>
+ </div>
 
-
+  
 ---
 
+</p> <h3>Jokes for my fellow nerds:</h3> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<!--jokes--> <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dda062&qColor=%23FFF&aColor=%23FFF" alt="Jokes Card" />
 
----
 
- <h3>Jokes for my fellow nerds:</h3> 
- <!--jokes--> 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dda062&qColor=%23FFF&aColor=%23FFF" alt="Jokes Card" />
+
  
