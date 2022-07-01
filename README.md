@@ -24,7 +24,7 @@
   - https://nafisahuda.hashnode.dev/
   - https://nafisahuda12.medium.com/
 
-- 💬 Ask me about **HTML/CSS, JavaScript**
+- 💬 Ask me about **HTML/CSS, JavaScript, MongoDB, Express JS, React JS, Node JS**
 
 - 📫 You can reach me at **nafisahuda12@gmail.com**
 
