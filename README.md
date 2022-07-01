@@ -43,7 +43,7 @@
 <div align="center">
   <table>
       <tr>
-        <td width="33.333%">
+        <td width="25%">
           <h3 align="center">Quotes API</h3>
           <p align="center">
              <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(1).gif" alt="project example"/> </a>
@@ -52,7 +52,7 @@
             </p>
           </p>
         </td>
-        <td width="33.333%">
+        <td width="25%">
           <h3 align="center">Hairology Salon</h3>
           <p align="center">
            <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif" alt="project example"/> </a>
@@ -63,12 +63,21 @@
         </td>
       </tr>
       <tr>
-        <td width="33.333%">
+        <td width="25%">
           <h3 align="center">DevDraw</h3>
           <p align="center">
              <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(2).gif" alt="project example"/> </a>
             <p align="center">
               With this project, you are able to create your own art through a collaborative canvas with numerous features. Through the use of javascript, node.js, html and css, we were able to bring this canvas to life and as simple as possible for users to use.  
+            </p>
+          </p>
+        </td>
+         <td width="25%">
+          <h3 align="center">FoodScape</h3>
+          <p align="center">
+             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(3).gif"/></a>
+            <p align="center">
+             FoodScape is a full-stack, mobile responsive application that allows users to keep track of their favorite restaurants by filling out a form.
             </p>
           </p>
         </td>
