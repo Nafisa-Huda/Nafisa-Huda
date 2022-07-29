@@ -43,19 +43,19 @@
 <div align="center">
   <table>
       <tr>
-        <td width="25%">
+        <td width="16.667%">
           <h3 align="center">Quotes API</h3>
           <p align="center">
-             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(1).gif" alt="project example"/> </a>
+             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(1).gif" alt="Quotes API"/> </a>
             <p align="center">
               API providing meaningful quotes, stoic quotes, and valuable advice.
             </p>
           </p>
         </td>
-        <td width="25%">
+        <td width="16.667%">
           <h3 align="center">Hairology Salon</h3>
           <p align="center">
-           <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif" alt="project example"/> </a>
+           <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif" alt="Hairology Salon"/> </a>
             <p align="center">
             A fully responsive, modern website for a luxurious full-service salon.
             </p>
@@ -63,24 +63,43 @@
         </td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="16.667%">
           <h3 align="center">DevDraw</h3>
           <p align="center">
-             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(2).gif" alt="project example"/> </a>
+             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(2).gif" alt="Dev Draw Application"/> </a>
             <p align="center">
               With this project, you are able to create your own art through a collaborative canvas with numerous features. Through the use of javascript, node.js, html and css, we were able to bring this canvas to life and as simple as possible for users to use.  
             </p>
           </p>
         </td>
-         <td width="25%">
+         <td width="16.667%">
           <h3 align="center">FoodScape</h3>
           <p align="center">
-             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(3).gif"/></a>
+             <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker%20(3).gif"  alt="Food Scape Application"/></a>
             <p align="center">
              FoodScape is a full-stack, mobile responsive application that allows users to keep track of their favorite restaurants by filling out a form.
             </p>
           </p>
         </td>
+        </tr>
+        <tr>
+        <td width="16.667%">
+          <h3 align="center">The-Office-Quotes-Application</h3>
+          <p align="center">
+<img src="https://github.com/Nafisa-Huda/The-Office-Quotes-App/blob/main/ezgif.com-gif-maker%20(4).gif" alt="The Office Quotes Application">            <p align="center">
+            A simple application that lets you keep track of quotes from "The Office" characters.
+            </p>
+          </p>
+        </td>
+       <td width="16.667%">
+          <h3 align="center">HealthierMind</h3>
+          <p align="center">
+<img src="https://github.com/Nafisa-Huda/HealthierMindApp/blob/main/ezgif.com-gif-maker%20(5).gif" alt="Healthier Mind Application"> <p align="center">
+            This is a mindfulness-based app that takes kids ages 8-12 on an interactive journey to learn about mental wellbeing and how fun it can be to create a healthier mind.
+            </p>
+          </p>
+        </td>
+      </tr>
       </table>
  </div>
 
