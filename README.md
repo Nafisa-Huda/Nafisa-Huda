@@ -16,7 +16,7 @@
 
 ---
 
-- 🌱 I’m currently using and learning the MERN stack (MongoDB, Express JS, React JS, Node JS)
+- 🌱 My current tech stack involves MongoDB, Express JS, React JS, Node JS, JS, HTML, CSS, Tailwind CSS, EJS, Handlebars. Always open to learning more.  
 
 - 👨‍💻 All of my projects are available at [https://nafisa-huda.netlify.app/](https://nafisa-huda.netlify.app/)
 
