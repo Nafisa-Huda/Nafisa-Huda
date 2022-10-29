@@ -53,11 +53,11 @@
           </p>
         </td>
         <td width="16.667%">
-          <h3 align="center">Hairology Salon</h3>
+          <h3 align="center">Foodtrucks API</h3>
           <p align="center">
-           <img src="https://github.com/Nafisa-Huda/Nafisa-Huda/blob/main/ezgif.com-gif-maker.gif" alt="Hairology Salon"/> </a>
+           <img src="https://github.com/Nafisa-Huda/foodtrucks-api/blob/main/ezgif.com-gif-maker%20(6).gif" alt="Foodtrucks API"/> </a>
             <p align="center">
-            A fully responsive, modern website for a luxurious full-service salon.
+            A simple API that retuns the top foodtruck in every US state.
             </p>
           </p>
         </td>
