@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/nafisa-huda/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=dda162" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Nafisahuda12">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=dda162" alt="Twitter Badge"/>
-  </a>
 </div>
 <h3>About Me:</h3>
 
